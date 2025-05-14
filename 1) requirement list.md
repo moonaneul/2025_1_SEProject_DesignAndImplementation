@@ -1,3 +1,5 @@
+공개용 개인 코드 : 862743
+개인 Github 주소 : moonaneul
 # Requirement List
 
 | NO  | Requirement | Use Case(s) |
