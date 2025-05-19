@@ -1,0 +1,8 @@
+[moonaneul] Mon May 19 08:30:36 2025 +0900 Create 5) analysis class diagram.pdf 65e5c92
+[moonaneul] Mon May 19 08:30:09 2025 +0900 Update 4) communication diagram.pdf 72dcf2b
+[moonaneul] Mon May 19 00:16:49 2025 +0900 Create 4) communication diagram.pdf c72011b
+[moonaneul] Thu May 15 09:11:55 2025 +0900 Update 3) use case descriptions.md 09500a1
+[moonaneul] Wed May 14 18:42:00 2025 +0900 Update 1) requirement list.md ce29ef6
+[moonaneul] Wed May 14 18:33:40 2025 +0900 Create 3) use case descriptions.md 3717605
+[moonaneul] Wed May 14 17:17:49 2025 +0900 2) use case diagram 4670721
+[moonaneul] Tue May 13 15:03:46 2025 +0900 requirement list e03c357
